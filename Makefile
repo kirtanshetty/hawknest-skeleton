@@ -249,4 +249,4 @@ handin:
 	@rm -f submission.tar.gz
 
 run-unit-tests:
-	@test/test.py
+	@test/test.py -c
